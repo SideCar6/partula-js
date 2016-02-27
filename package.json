@@ -1,0 +1,19 @@
+{
+  "name": "partula-js",
+  "version": "0.0.1",
+  "description": "Partula is a library for generating characters names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SideCar6/partula-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SideCar6/partula-js/issues"
+  },
+  "homepage": "https://github.com/SideCar6/partula-js#readme"
+}
