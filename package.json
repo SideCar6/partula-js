@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SideCar6/partula-js/issues"
   },
-  "homepage": "https://github.com/SideCar6/partula-js#readme"
+  "homepage": "https://github.com/SideCar6/partula-js#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "mysql": "^2.10.2"
+  }
 }
